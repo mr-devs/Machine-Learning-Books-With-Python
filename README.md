@@ -4,7 +4,8 @@
 
 This repository contains some notes and exercises solutions for the following books:
 
-* Introduction to Statistical Learning
+* [Introduction to Statistical Learning](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
+  * Note: this may not be the latest version of the book
 
 Books by the original repo creator:
 
